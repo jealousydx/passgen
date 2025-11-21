@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-git clone https://github.com/username/passgen.git
+git clone https://github.com/jealousydx/passgen
 cd passgen
 make
 sudo make install
